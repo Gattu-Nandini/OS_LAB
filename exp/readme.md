@@ -7,7 +7,7 @@ operating system lab
 ![date command output](date.png)
 ![date manual command](mandate.png)
 ### date+%D command output
-![date +%D command ouput](date_+%D.png)
+![date +%D command ouput](date+%d.png)
 ### date+%T command output
 ![date +%T command ouput](date_+%T.png)
 ### date+%Y command output
