@@ -6,6 +6,19 @@ operating system lab
 ### date command output
 ![date command output](date.png)
 ![date manual command](mandate.png)
+### date+%D command output
+![date +%D command ouput](date_+%D.png)
+### date+%T command output
+![date +%T command ouput](date_+%T.png)
+### date+%Y command output
+![date +%Y command ouput](date_+%Y.png)
+### date+%H command output
+![date +%H command ouput](date_+%T.png)
+### cal command output
+![cal command ouput](cal.png)
+![cal manual command ouput](mancal.png)
+### cal year command output
+![cal year command output](cal_year.png)
 ### cat command output
 ![cat command output](cat.png)
 ![cat manual command](mancat.png)
@@ -57,4 +70,6 @@ operating system lab
 ![cp manual command](mancp.png)
 ### pwd command output
 ![pwd command output](pwd.png)
+![pwd manual command](pwdman.png)
+
 
