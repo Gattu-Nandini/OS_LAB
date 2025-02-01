@@ -56,5 +56,5 @@ operating system lab
 ![cp command output](cp.png)
 ![cp manual command](mancp.png)
 ### pwd command output
-![pwd command output](pwdcommand.png)
+![pwd command output](pwd.png)
 
