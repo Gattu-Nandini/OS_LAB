@@ -3,12 +3,6 @@
 operating system lab
 #BASIC LINUX COMMANDS
 ##General command outputs
-### bc command output
-![bc command output](bc.png)
-![bc manual command](manbc.png)
-### cp command output
-![cp command output](cp.png)
-![cp manual command](mancp.png)
 ### date command output
 ![date command output](date.png)
 ![date manual command](mandate.png)
@@ -55,3 +49,12 @@ operating system lab
 ![touch command output](touch.png)
 ### who am i command output
 ![who am i command output](whoami.png)
+### bc command output
+![bc command output](bc.png)
+![bc manual command](manbc.png)
+### cp command output
+![cp command output](cp.png)
+![cp manual command](mancp.png)
+### pwd command output
+![pwd command output](pwdcommand.png)
+
