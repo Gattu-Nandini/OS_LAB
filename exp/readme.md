@@ -6,13 +6,9 @@ operating system lab
 ### date command output
 ![date command output](date.png)
 ![date manual command](mandate.png)
-### date+%d command output
 ![date+%d command ouput](date+%d.png)
-### date_+%T command output
 ![date +%T command ouput](date_+%T.png)
-### date_+%Y command output
 ![date +%Y command ouput](date_+%Y.png)
-### date_+%H command output
 ![date +%H command ouput](date_+%H.png)
 ### cal command output
 ![cal command ouput](cal.png)
